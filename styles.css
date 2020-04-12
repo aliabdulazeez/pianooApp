@@ -11,6 +11,18 @@ body {
   align-items: center;
 }
 
+.bro{
+  width: 25%;
+  position: absolute;
+  z-index: 10;
+  color: white;
+  margin-top: 5rem;
+  font-size: 2rem;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
 .piano {
   display: flex;
 }
